@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+
+.mlc-log.txt
+
+# Generated benchmark/monitoring output
+trace.csv
+trace.json
+plots/
